@@ -1,0 +1,7 @@
+{   
+    "config": {
+        "database": "numbers.db",
+        "api_token": "",
+        "admin_id": 0
+    }
+}
